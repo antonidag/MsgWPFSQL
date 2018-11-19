@@ -1,0 +1,48 @@
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\Msg.exe.config
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\Msg.exe
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\Msg.pdb
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\Mono.Security.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\Npgsql.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\Npgsql.pdb
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\Npgsql.xml
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\de\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\es\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg.csprojResolveAssemblyReference.cache
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\MainWindow.g.cs
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\App.g.cs
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg_MarkupCompile.cache
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg_MarkupCompile.lref
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\MainWindow.baml
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg.g.resources
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg.Properties.Resources.resources
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg.csproj.GenerateResource.Cache
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg.csproj.CoreCompileInputs.cache
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg.exe
+C:\Users\antonidag\Documents\Visual Studio 2017\Projects\Msg\Msg\obj\Debug\Msg.pdb
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\Msg.exe.config
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\Msg.exe
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\Msg.pdb
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\Npgsql.pdb
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\Npgsql.xml
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\de\Npgsql.resources.dll
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\es\Npgsql.resources.dll
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg.csprojResolveAssemblyReference.cache
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\MainWindow.g.cs
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\App.g.cs
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg_MarkupCompile.cache
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg_MarkupCompile.lref
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\MainWindow.baml
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg.g.resources
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg.Properties.Resources.resources
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg.csproj.GenerateResource.Cache
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg.csproj.CoreCompileInputs.cache
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg.exe
+C:\Users\antonidag\Documents\GitHub\MsgWPFSQL\Msg\obj\Debug\Msg.pdb
